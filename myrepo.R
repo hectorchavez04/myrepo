@@ -1,1 +1,1 @@
-datsos <- read.csv(paste(inp, "hola.csv", sep="/"))
+datos <- read.csv(paste(inp, "hola.csv", sep="/"))
