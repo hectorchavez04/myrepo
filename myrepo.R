@@ -1,0 +1,1 @@
+datsos <- read.csv(paste(inp, "hola.csv", sep="/"))
